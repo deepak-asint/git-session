@@ -1,2 +1,4 @@
 This is feature 5 file.
 Added by Deepak
+Some random text
+Some more random text
